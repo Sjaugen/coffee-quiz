@@ -127,7 +127,7 @@ export default function Home() {
             What&apos;s Your<br />Coffee Personality?
           </h1>
           <p className="text-zinc-400 text-base mb-10">
-            6 questions. One perfect cup waiting for you.
+            6 questions. One perfect brew waiting for you.
           </p>
           <button
             onClick={() => setCurrentQuestion(0)}
